@@ -38,4 +38,3 @@ class PlacesController < ApplicationController
     render json: { message: "successfully destroyed" }
   end
 end
-end
